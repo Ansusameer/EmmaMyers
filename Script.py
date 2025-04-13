@@ -1,5 +1,6 @@
 class script(object):
-    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Can Provide You Any Movies, Web-Series, Anime, K-Dramas, Animation, etc!</i></b>"""
+    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>
+🌟 Get Elite Membership at Just ₹40/- Per Month & I Can Provide You Any Movie, Series, Anime etc.,</i></b>"""
     
     
     HELP_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
