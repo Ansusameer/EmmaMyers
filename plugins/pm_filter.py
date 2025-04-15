@@ -50,7 +50,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>🌟 Get Elite Membership at Just ₹40/- Per Month & I Can Provide You Any Movie, Series, Anime etc.,</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here To Buy 🧤", url=f"https://telegram.me/Avaflixx13")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here To Buy 🧤", url=f"https://t.me/Avaflixx/13")]])
     )
 
 @Client.on_callback_query(filters.regex(r"^next"))
